@@ -1,0 +1,1200 @@
+{
+  "data": [
+    {
+      "datetime": "2010-11-19T22:00:00",
+      "actual": 0.602,
+      "rf_pred": 0.5856,
+      "gb_pred": 0.6039,
+      "lstm_pred": 1.2639
+    },
+    {
+      "datetime": "2010-11-19T23:00:00",
+      "actual": 0.3342,
+      "rf_pred": 0.3156,
+      "gb_pred": 0.321,
+      "lstm_pred": 0.5523
+    },
+    {
+      "datetime": "2010-11-20T00:00:00",
+      "actual": 0.317,
+      "rf_pred": 0.3124,
+      "gb_pred": 0.3232,
+      "lstm_pred": 0.4031
+    },
+    {
+      "datetime": "2010-11-20T01:00:00",
+      "actual": 0.2849,
+      "rf_pred": 0.2815,
+      "gb_pred": 0.2883,
+      "lstm_pred": 0.394
+    },
+    {
+      "datetime": "2010-11-20T02:00:00",
+      "actual": 0.3567,
+      "rf_pred": 0.3451,
+      "gb_pred": 0.3655,
+      "lstm_pred": 0.3785
+    },
+    {
+      "datetime": "2010-11-20T03:00:00",
+      "actual": 0.3103,
+      "rf_pred": 0.3031,
+      "gb_pred": 0.3059,
+      "lstm_pred": 0.3996
+    },
+    {
+      "datetime": "2010-11-20T04:00:00",
+      "actual": 0.3265,
+      "rf_pred": 0.3216,
+      "gb_pred": 0.3359,
+      "lstm_pred": 0.4558
+    },
+    {
+      "datetime": "2010-11-20T05:00:00",
+      "actual": 0.8853,
+      "rf_pred": 0.8664,
+      "gb_pred": 0.8812,
+      "lstm_pred": 0.6099
+    },
+    {
+      "datetime": "2010-11-20T06:00:00",
+      "actual": 0.7866,
+      "rf_pred": 0.7569,
+      "gb_pred": 0.7848,
+      "lstm_pred": 1.3709
+    },
+    {
+      "datetime": "2010-11-20T07:00:00",
+      "actual": 2.6342,
+      "rf_pred": 2.609,
+      "gb_pred": 2.581,
+      "lstm_pred": 1.2144
+    },
+    {
+      "datetime": "2010-11-20T08:00:00",
+      "actual": 1.9728,
+      "rf_pred": 1.9375,
+      "gb_pred": 1.9752,
+      "lstm_pred": 1.8314
+    },
+    {
+      "datetime": "2010-11-20T09:00:00",
+      "actual": 1.8751,
+      "rf_pred": 1.8481,
+      "gb_pred": 1.8711,
+      "lstm_pred": 1.6684
+    },
+    {
+      "datetime": "2010-11-20T10:00:00",
+      "actual": 1.2921,
+      "rf_pred": 1.2949,
+      "gb_pred": 1.2892,
+      "lstm_pred": 1.6818
+    },
+    {
+      "datetime": "2010-11-20T11:00:00",
+      "actual": 2.6911,
+      "rf_pred": 2.699,
+      "gb_pred": 2.7256,
+      "lstm_pred": 1.2637
+    },
+    {
+      "datetime": "2010-11-20T12:00:00",
+      "actual": 1.1306,
+      "rf_pred": 1.1296,
+      "gb_pred": 1.1334,
+      "lstm_pred": 2.0248
+    },
+    {
+      "datetime": "2010-11-20T13:00:00",
+      "actual": 1.298,
+      "rf_pred": 1.2972,
+      "gb_pred": 1.3087,
+      "lstm_pred": 1.0834
+    },
+    {
+      "datetime": "2010-11-20T14:00:00",
+      "actual": 1.0514,
+      "rf_pred": 1.027,
+      "gb_pred": 1.0328,
+      "lstm_pred": 1.4788
+    },
+    {
+      "datetime": "2010-11-20T15:00:00",
+      "actual": 1.2582,
+      "rf_pred": 1.2418,
+      "gb_pred": 1.2509,
+      "lstm_pred": 1.2911
+    },
+    {
+      "datetime": "2010-11-20T16:00:00",
+      "actual": 1.517,
+      "rf_pred": 1.5085,
+      "gb_pred": 1.4905,
+      "lstm_pred": 1.6608
+    },
+    {
+      "datetime": "2010-11-20T17:00:00",
+      "actual": 1.7953,
+      "rf_pred": 1.7641,
+      "gb_pred": 1.7888,
+      "lstm_pred": 1.756
+    },
+    {
+      "datetime": "2010-11-20T18:00:00",
+      "actual": 5.6268,
+      "rf_pred": 5.8188,
+      "gb_pred": 5.6982,
+      "lstm_pred": 1.9996
+    },
+    {
+      "datetime": "2010-11-20T19:00:00",
+      "actual": 3.2597,
+      "rf_pred": 3.3298,
+      "gb_pred": 3.4011,
+      "lstm_pred": 3.0588
+    },
+    {
+      "datetime": "2010-11-20T20:00:00",
+      "actual": 2.1171,
+      "rf_pred": 2.1033,
+      "gb_pred": 2.1465,
+      "lstm_pred": 2.5755
+    },
+    {
+      "datetime": "2010-11-20T21:00:00",
+      "actual": 1.7741,
+      "rf_pred": 1.7449,
+      "gb_pred": 1.7699,
+      "lstm_pred": 1.4446
+    },
+    {
+      "datetime": "2010-11-20T22:00:00",
+      "actual": 1.3264,
+      "rf_pred": 1.3318,
+      "gb_pred": 1.3235,
+      "lstm_pred": 1.0263
+    },
+    {
+      "datetime": "2010-11-20T23:00:00",
+      "actual": 0.7295,
+      "rf_pred": 0.7283,
+      "gb_pred": 0.7271,
+      "lstm_pred": 0.8073
+    },
+    {
+      "datetime": "2010-11-21T00:00:00",
+      "actual": 0.5199,
+      "rf_pred": 0.4911,
+      "gb_pred": 0.4989,
+      "lstm_pred": 0.4834
+    },
+    {
+      "datetime": "2010-11-21T01:00:00",
+      "actual": 0.2938,
+      "rf_pred": 0.2893,
+      "gb_pred": 0.2872,
+      "lstm_pred": 0.3894
+    },
+    {
+      "datetime": "2010-11-21T02:00:00",
+      "actual": 0.8968,
+      "rf_pred": 0.8691,
+      "gb_pred": 0.8765,
+      "lstm_pred": 0.3215
+    },
+    {
+      "datetime": "2010-11-21T03:00:00",
+      "actual": 0.3299,
+      "rf_pred": 0.3145,
+      "gb_pred": 0.3114,
+      "lstm_pred": 0.6058
+    },
+    {
+      "datetime": "2010-11-21T04:00:00",
+      "actual": 0.3446,
+      "rf_pred": 0.3225,
+      "gb_pred": 0.325,
+      "lstm_pred": 0.4419
+    },
+    {
+      "datetime": "2010-11-21T05:00:00",
+      "actual": 0.2903,
+      "rf_pred": 0.2806,
+      "gb_pred": 0.2813,
+      "lstm_pred": 0.9
+    },
+    {
+      "datetime": "2010-11-21T06:00:00",
+      "actual": 0.3369,
+      "rf_pred": 0.3148,
+      "gb_pred": 0.3236,
+      "lstm_pred": 1.1019
+    },
+    {
+      "datetime": "2010-11-21T07:00:00",
+      "actual": 2.0713,
+      "rf_pred": 2.0333,
+      "gb_pred": 2.0417,
+      "lstm_pred": 1.3301
+    },
+    {
+      "datetime": "2010-11-21T08:00:00",
+      "actual": 1.4247,
+      "rf_pred": 1.4219,
+      "gb_pred": 1.4359,
+      "lstm_pred": 2.1149
+    },
+    {
+      "datetime": "2010-11-21T09:00:00",
+      "actual": 1.2906,
+      "rf_pred": 1.2804,
+      "gb_pred": 1.2979,
+      "lstm_pred": 1.4809
+    },
+    {
+      "datetime": "2010-11-21T10:00:00",
+      "actual": 0.2681,
+      "rf_pred": 0.2797,
+      "gb_pred": 0.2829,
+      "lstm_pred": 1.3516
+    },
+    {
+      "datetime": "2010-11-21T11:00:00",
+      "actual": 0.2992,
+      "rf_pred": 0.296,
+      "gb_pred": 0.2936,
+      "lstm_pred": 0.5861
+    },
+    {
+      "datetime": "2010-11-21T12:00:00",
+      "actual": 0.3496,
+      "rf_pred": 0.3459,
+      "gb_pred": 0.3513,
+      "lstm_pred": 0.4974
+    },
+    {
+      "datetime": "2010-11-21T13:00:00",
+      "actual": 0.2769,
+      "rf_pred": 0.2801,
+      "gb_pred": 0.2885,
+      "lstm_pred": 0.5038
+    },
+    {
+      "datetime": "2010-11-21T14:00:00",
+      "actual": 0.281,
+      "rf_pred": 0.278,
+      "gb_pred": 0.2732,
+      "lstm_pred": 0.4204
+    },
+    {
+      "datetime": "2010-11-21T15:00:00",
+      "actual": 0.2973,
+      "rf_pred": 0.2891,
+      "gb_pred": 0.2905,
+      "lstm_pred": 0.4403
+    },
+    {
+      "datetime": "2010-11-21T16:00:00",
+      "actual": 0.3508,
+      "rf_pred": 0.3401,
+      "gb_pred": 0.3496,
+      "lstm_pred": 0.573
+    },
+    {
+      "datetime": "2010-11-21T17:00:00",
+      "actual": 0.7239,
+      "rf_pred": 0.7182,
+      "gb_pred": 0.7223,
+      "lstm_pred": 0.8951
+    },
+    {
+      "datetime": "2010-11-21T18:00:00",
+      "actual": 0.4511,
+      "rf_pred": 0.4521,
+      "gb_pred": 0.462,
+      "lstm_pred": 1.615
+    },
+    {
+      "datetime": "2010-11-21T19:00:00",
+      "actual": 0.2955,
+      "rf_pred": 0.2943,
+      "gb_pred": 0.2972,
+      "lstm_pred": 1.3117
+    },
+    {
+      "datetime": "2010-11-21T20:00:00",
+      "actual": 0.6048,
+      "rf_pred": 0.5842,
+      "gb_pred": 0.5744,
+      "lstm_pred": 1.0896
+    },
+    {
+      "datetime": "2010-11-21T21:00:00",
+      "actual": 1.2213,
+      "rf_pred": 1.1962,
+      "gb_pred": 1.2059,
+      "lstm_pred": 1.142
+    },
+    {
+      "datetime": "2010-11-21T22:00:00",
+      "actual": 1.4938,
+      "rf_pred": 1.4674,
+      "gb_pred": 1.484,
+      "lstm_pred": 1.2956
+    },
+    {
+      "datetime": "2010-11-21T23:00:00",
+      "actual": 0.3032,
+      "rf_pred": 0.2936,
+      "gb_pred": 0.2976,
+      "lstm_pred": 1.1373
+    },
+    {
+      "datetime": "2010-11-22T00:00:00",
+      "actual": 0.3675,
+      "rf_pred": 0.3472,
+      "gb_pred": 0.3539,
+      "lstm_pred": 0.4001
+    },
+    {
+      "datetime": "2010-11-22T01:00:00",
+      "actual": 0.2799,
+      "rf_pred": 0.2802,
+      "gb_pred": 0.287,
+      "lstm_pred": 0.4028
+    },
+    {
+      "datetime": "2010-11-22T02:00:00",
+      "actual": 0.2834,
+      "rf_pred": 0.2781,
+      "gb_pred": 0.2854,
+      "lstm_pred": 0.3616
+    },
+    {
+      "datetime": "2010-11-22T03:00:00",
+      "actual": 0.2749,
+      "rf_pred": 0.2768,
+      "gb_pred": 0.2719,
+      "lstm_pred": 0.3513
+    },
+    {
+      "datetime": "2010-11-22T04:00:00",
+      "actual": 0.3683,
+      "rf_pred": 0.3481,
+      "gb_pred": 0.3531,
+      "lstm_pred": 0.3922
+    },
+    {
+      "datetime": "2010-11-22T05:00:00",
+      "actual": 0.2859,
+      "rf_pred": 0.2797,
+      "gb_pred": 0.2851,
+      "lstm_pred": 0.5196
+    },
+    {
+      "datetime": "2010-11-22T06:00:00",
+      "actual": 0.953,
+      "rf_pred": 0.9535,
+      "gb_pred": 0.9526,
+      "lstm_pred": 0.752
+    },
+    {
+      "datetime": "2010-11-22T07:00:00",
+      "actual": 2.137,
+      "rf_pred": 2.1311,
+      "gb_pred": 2.1397,
+      "lstm_pred": 1.2928
+    },
+    {
+      "datetime": "2010-11-22T08:00:00",
+      "actual": 2.5902,
+      "rf_pred": 2.5853,
+      "gb_pred": 2.5617,
+      "lstm_pred": 1.7852
+    },
+    {
+      "datetime": "2010-11-22T09:00:00",
+      "actual": 1.4276,
+      "rf_pred": 1.4322,
+      "gb_pred": 1.4506,
+      "lstm_pred": 1.7524
+    },
+    {
+      "datetime": "2010-11-22T10:00:00",
+      "actual": 3.1054,
+      "rf_pred": 3.0922,
+      "gb_pred": 3.1173,
+      "lstm_pred": 1.1086
+    },
+    {
+      "datetime": "2010-11-22T11:00:00",
+      "actual": 2.6391,
+      "rf_pred": 2.7286,
+      "gb_pred": 2.7233,
+      "lstm_pred": 1.9534
+    },
+    {
+      "datetime": "2010-11-22T12:00:00",
+      "actual": 1.8669,
+      "rf_pred": 1.8663,
+      "gb_pred": 1.8788,
+      "lstm_pred": 1.7167
+    },
+    {
+      "datetime": "2010-11-22T13:00:00",
+      "actual": 1.9868,
+      "rf_pred": 1.9776,
+      "gb_pred": 1.9893,
+      "lstm_pred": 1.5502
+    },
+    {
+      "datetime": "2010-11-22T14:00:00",
+      "actual": 1.5177,
+      "rf_pred": 1.514,
+      "gb_pred": 1.4962,
+      "lstm_pred": 1.6617
+    },
+    {
+      "datetime": "2010-11-22T15:00:00",
+      "actual": 1.3866,
+      "rf_pred": 1.3741,
+      "gb_pred": 1.3679,
+      "lstm_pred": 1.1863
+    },
+    {
+      "datetime": "2010-11-22T16:00:00",
+      "actual": 0.6926,
+      "rf_pred": 0.6735,
+      "gb_pred": 0.6758,
+      "lstm_pred": 1.2424
+    },
+    {
+      "datetime": "2010-11-22T17:00:00",
+      "actual": 0.6458,
+      "rf_pred": 0.6202,
+      "gb_pred": 0.6243,
+      "lstm_pred": 0.5944
+    },
+    {
+      "datetime": "2010-11-22T18:00:00",
+      "actual": 3.1683,
+      "rf_pred": 3.2302,
+      "gb_pred": 3.1973,
+      "lstm_pred": 0.6914
+    },
+    {
+      "datetime": "2010-11-22T19:00:00",
+      "actual": 2.5895,
+      "rf_pred": 2.5804,
+      "gb_pred": 2.5877,
+      "lstm_pred": 2.1605
+    },
+    {
+      "datetime": "2010-11-22T20:00:00",
+      "actual": 1.5825,
+      "rf_pred": 1.5496,
+      "gb_pred": 1.5374,
+      "lstm_pred": 2.1438
+    },
+    {
+      "datetime": "2010-11-22T21:00:00",
+      "actual": 2.3887,
+      "rf_pred": 2.3696,
+      "gb_pred": 2.3701,
+      "lstm_pred": 1.2798
+    },
+    {
+      "datetime": "2010-11-22T22:00:00",
+      "actual": 1.1652,
+      "rf_pred": 1.1519,
+      "gb_pred": 1.1735,
+      "lstm_pred": 1.7809
+    },
+    {
+      "datetime": "2010-11-22T23:00:00",
+      "actual": 0.3228,
+      "rf_pred": 0.3108,
+      "gb_pred": 0.3162,
+      "lstm_pred": 0.4717
+    },
+    {
+      "datetime": "2010-11-23T00:00:00",
+      "actual": 0.3652,
+      "rf_pred": 0.3499,
+      "gb_pred": 0.3578,
+      "lstm_pred": 0.3557
+    },
+    {
+      "datetime": "2010-11-23T01:00:00",
+      "actual": 0.2924,
+      "rf_pred": 0.2893,
+      "gb_pred": 0.2892,
+      "lstm_pred": 0.3742
+    },
+    {
+      "datetime": "2010-11-23T02:00:00",
+      "actual": 0.2824,
+      "rf_pred": 0.2891,
+      "gb_pred": 0.2915,
+      "lstm_pred": 0.3599
+    },
+    {
+      "datetime": "2010-11-23T03:00:00",
+      "actual": 0.2745,
+      "rf_pred": 0.283,
+      "gb_pred": 0.2861,
+      "lstm_pred": 0.3455
+    },
+    {
+      "datetime": "2010-11-23T04:00:00",
+      "actual": 0.3602,
+      "rf_pred": 0.3456,
+      "gb_pred": 0.3529,
+      "lstm_pred": 0.4032
+    },
+    {
+      "datetime": "2010-11-23T05:00:00",
+      "actual": 0.2802,
+      "rf_pred": 0.2787,
+      "gb_pred": 0.2874,
+      "lstm_pred": 0.6834
+    },
+    {
+      "datetime": "2010-11-23T06:00:00",
+      "actual": 0.6357,
+      "rf_pred": 0.6172,
+      "gb_pred": 0.6127,
+      "lstm_pred": 1.0664
+    },
+    {
+      "datetime": "2010-11-23T07:00:00",
+      "actual": 2.5486,
+      "rf_pred": 2.51,
+      "gb_pred": 2.5451,
+      "lstm_pred": 1.7325
+    },
+    {
+      "datetime": "2010-11-23T08:00:00",
+      "actual": 1.7041,
+      "rf_pred": 1.7438,
+      "gb_pred": 1.7483,
+      "lstm_pred": 2.098
+    },
+    {
+      "datetime": "2010-11-23T09:00:00",
+      "actual": 1.4006,
+      "rf_pred": 1.4124,
+      "gb_pred": 1.436,
+      "lstm_pred": 1.5335
+    },
+    {
+      "datetime": "2010-11-23T10:00:00",
+      "actual": 1.57,
+      "rf_pred": 1.5686,
+      "gb_pred": 1.5736,
+      "lstm_pred": 1.3227
+    },
+    {
+      "datetime": "2010-11-23T11:00:00",
+      "actual": 1.704,
+      "rf_pred": 1.7537,
+      "gb_pred": 1.7509,
+      "lstm_pred": 1.4821
+    },
+    {
+      "datetime": "2010-11-23T12:00:00",
+      "actual": 1.0492,
+      "rf_pred": 1.0535,
+      "gb_pred": 1.0559,
+      "lstm_pred": 1.5491
+    },
+    {
+      "datetime": "2010-11-23T13:00:00",
+      "actual": 0.8319,
+      "rf_pred": 0.8169,
+      "gb_pred": 0.8221,
+      "lstm_pred": 0.887
+    },
+    {
+      "datetime": "2010-11-23T14:00:00",
+      "actual": 1.5486,
+      "rf_pred": 1.5178,
+      "gb_pred": 1.5303,
+      "lstm_pred": 0.7528
+    },
+    {
+      "datetime": "2010-11-23T15:00:00",
+      "actual": 0.4,
+      "rf_pred": 0.3873,
+      "gb_pred": 0.3837,
+      "lstm_pred": 1.337
+    },
+    {
+      "datetime": "2010-11-23T16:00:00",
+      "actual": 0.5093,
+      "rf_pred": 0.4923,
+      "gb_pred": 0.4854,
+      "lstm_pred": 0.6628
+    },
+    {
+      "datetime": "2010-11-23T17:00:00",
+      "actual": 0.9787,
+      "rf_pred": 0.9814,
+      "gb_pred": 0.9785,
+      "lstm_pred": 0.9151
+    },
+    {
+      "datetime": "2010-11-23T18:00:00",
+      "actual": 1.8401,
+      "rf_pred": 1.8334,
+      "gb_pred": 1.8283,
+      "lstm_pred": 1.8565
+    },
+    {
+      "datetime": "2010-11-23T19:00:00",
+      "actual": 2.2212,
+      "rf_pred": 2.3449,
+      "gb_pred": 2.3572,
+      "lstm_pred": 2.4119
+    },
+    {
+      "datetime": "2010-11-23T20:00:00",
+      "actual": 2.6367,
+      "rf_pred": 2.6212,
+      "gb_pred": 2.6452,
+      "lstm_pred": 2.3558
+    },
+    {
+      "datetime": "2010-11-23T21:00:00",
+      "actual": 1.4262,
+      "rf_pred": 1.4154,
+      "gb_pred": 1.4343,
+      "lstm_pred": 2.0725
+    },
+    {
+      "datetime": "2010-11-23T22:00:00",
+      "actual": 0.8328,
+      "rf_pred": 0.7972,
+      "gb_pred": 0.7963,
+      "lstm_pred": 0.808
+    },
+    {
+      "datetime": "2010-11-23T23:00:00",
+      "actual": 0.5997,
+      "rf_pred": 0.5827,
+      "gb_pred": 0.5856,
+      "lstm_pred": 0.4917
+    },
+    {
+      "datetime": "2010-11-24T00:00:00",
+      "actual": 0.3584,
+      "rf_pred": 0.3516,
+      "gb_pred": 0.3544,
+      "lstm_pred": 0.4349
+    },
+    {
+      "datetime": "2010-11-24T01:00:00",
+      "actual": 0.2653,
+      "rf_pred": 0.2782,
+      "gb_pred": 0.2881,
+      "lstm_pred": 0.3768
+    },
+    {
+      "datetime": "2010-11-24T02:00:00",
+      "actual": 0.5021,
+      "rf_pred": 0.4857,
+      "gb_pred": 0.5103,
+      "lstm_pred": 0.3496
+    },
+    {
+      "datetime": "2010-11-24T03:00:00",
+      "actual": 0.7512,
+      "rf_pred": 0.7486,
+      "gb_pred": 0.7783,
+      "lstm_pred": 0.4209
+    },
+    {
+      "datetime": "2010-11-24T04:00:00",
+      "actual": 0.3203,
+      "rf_pred": 0.3089,
+      "gb_pred": 0.3106,
+      "lstm_pred": 0.5447
+    },
+    {
+      "datetime": "2010-11-24T05:00:00",
+      "actual": 0.2844,
+      "rf_pred": 0.2871,
+      "gb_pred": 0.2892,
+      "lstm_pred": 0.6108
+    },
+    {
+      "datetime": "2010-11-24T06:00:00",
+      "actual": 0.829,
+      "rf_pred": 0.819,
+      "gb_pred": 0.8408,
+      "lstm_pred": 1.1088
+    },
+    {
+      "datetime": "2010-11-24T07:00:00",
+      "actual": 2.8502,
+      "rf_pred": 2.8137,
+      "gb_pred": 2.8572,
+      "lstm_pred": 1.9156
+    },
+    {
+      "datetime": "2010-11-24T08:00:00",
+      "actual": 1.5542,
+      "rf_pred": 1.5582,
+      "gb_pred": 1.5761,
+      "lstm_pred": 1.9967
+    },
+    {
+      "datetime": "2010-11-24T09:00:00",
+      "actual": 1.364,
+      "rf_pred": 1.3655,
+      "gb_pred": 1.3711,
+      "lstm_pred": 1.4275
+    },
+    {
+      "datetime": "2010-11-24T10:00:00",
+      "actual": 1.3726,
+      "rf_pred": 1.3827,
+      "gb_pred": 1.388,
+      "lstm_pred": 1.2636
+    },
+    {
+      "datetime": "2010-11-24T11:00:00",
+      "actual": 1.3924,
+      "rf_pred": 1.3922,
+      "gb_pred": 1.3893,
+      "lstm_pred": 1.3461
+    },
+    {
+      "datetime": "2010-11-24T12:00:00",
+      "actual": 1.5838,
+      "rf_pred": 1.5784,
+      "gb_pred": 1.5713,
+      "lstm_pred": 1.322
+    },
+    {
+      "datetime": "2010-11-24T13:00:00",
+      "actual": 1.961,
+      "rf_pred": 1.9378,
+      "gb_pred": 1.9617,
+      "lstm_pred": 1.4552
+    },
+    {
+      "datetime": "2010-11-24T14:00:00",
+      "actual": 2.0178,
+      "rf_pred": 1.9999,
+      "gb_pred": 2.0044,
+      "lstm_pred": 1.6746
+    },
+    {
+      "datetime": "2010-11-24T15:00:00",
+      "actual": 1.502,
+      "rf_pred": 1.5111,
+      "gb_pred": 1.4922,
+      "lstm_pred": 1.7123
+    },
+    {
+      "datetime": "2010-11-24T16:00:00",
+      "actual": 0.8741,
+      "rf_pred": 0.8744,
+      "gb_pred": 0.8908,
+      "lstm_pred": 1.2216
+    },
+    {
+      "datetime": "2010-11-24T17:00:00",
+      "actual": 1.9389,
+      "rf_pred": 1.9295,
+      "gb_pred": 1.9127,
+      "lstm_pred": 1.2744
+    },
+    {
+      "datetime": "2010-11-24T18:00:00",
+      "actual": 2.0611,
+      "rf_pred": 2.0235,
+      "gb_pred": 2.0262,
+      "lstm_pred": 2.2306
+    },
+    {
+      "datetime": "2010-11-24T19:00:00",
+      "actual": 1.4982,
+      "rf_pred": 1.5008,
+      "gb_pred": 1.4759,
+      "lstm_pred": 2.3359
+    },
+    {
+      "datetime": "2010-11-24T20:00:00",
+      "actual": 2.3129,
+      "rf_pred": 2.3394,
+      "gb_pred": 2.3241,
+      "lstm_pred": 1.9969
+    },
+    {
+      "datetime": "2010-11-24T21:00:00",
+      "actual": 1.5684,
+      "rf_pred": 1.5688,
+      "gb_pred": 1.5904,
+      "lstm_pred": 1.7591
+    },
+    {
+      "datetime": "2010-11-24T22:00:00",
+      "actual": 0.4221,
+      "rf_pred": 0.4047,
+      "gb_pred": 0.4085,
+      "lstm_pred": 0.8171
+    },
+    {
+      "datetime": "2010-11-24T23:00:00",
+      "actual": 0.3531,
+      "rf_pred": 0.337,
+      "gb_pred": 0.338,
+      "lstm_pred": 0.404
+    },
+    {
+      "datetime": "2010-11-25T00:00:00",
+      "actual": 0.3035,
+      "rf_pred": 0.2949,
+      "gb_pred": 0.2999,
+      "lstm_pred": 0.3592
+    },
+    {
+      "datetime": "2010-11-25T01:00:00",
+      "actual": 0.2897,
+      "rf_pred": 0.2872,
+      "gb_pred": 0.2897,
+      "lstm_pred": 0.3737
+    },
+    {
+      "datetime": "2010-11-25T02:00:00",
+      "actual": 0.2664,
+      "rf_pred": 0.2697,
+      "gb_pred": 0.2733,
+      "lstm_pred": 0.3626
+    },
+    {
+      "datetime": "2010-11-25T03:00:00",
+      "actual": 0.3357,
+      "rf_pred": 0.3175,
+      "gb_pred": 0.3168,
+      "lstm_pred": 0.345
+    },
+    {
+      "datetime": "2010-11-25T04:00:00",
+      "actual": 0.3771,
+      "rf_pred": 0.3654,
+      "gb_pred": 0.3731,
+      "lstm_pred": 0.4598
+    },
+    {
+      "datetime": "2010-11-25T05:00:00",
+      "actual": 0.8805,
+      "rf_pred": 0.8644,
+      "gb_pred": 0.8806,
+      "lstm_pred": 0.7534
+    },
+    {
+      "datetime": "2010-11-25T06:00:00",
+      "actual": 0.9632,
+      "rf_pred": 0.9553,
+      "gb_pred": 0.9565,
+      "lstm_pred": 1.6141
+    },
+    {
+      "datetime": "2010-11-25T07:00:00",
+      "actual": 2.6271,
+      "rf_pred": 2.6229,
+      "gb_pred": 2.6553,
+      "lstm_pred": 1.5359
+    },
+    {
+      "datetime": "2010-11-25T08:00:00",
+      "actual": 1.6294,
+      "rf_pred": 1.5947,
+      "gb_pred": 1.625,
+      "lstm_pred": 1.8425
+    },
+    {
+      "datetime": "2010-11-25T09:00:00",
+      "actual": 1.2577,
+      "rf_pred": 1.2693,
+      "gb_pred": 1.2543,
+      "lstm_pred": 1.5117
+    },
+    {
+      "datetime": "2010-11-25T10:00:00",
+      "actual": 0.6455,
+      "rf_pred": 0.6248,
+      "gb_pred": 0.628,
+      "lstm_pred": 1.2567
+    },
+    {
+      "datetime": "2010-11-25T11:00:00",
+      "actual": 1.0281,
+      "rf_pred": 1.0313,
+      "gb_pred": 1.0447,
+      "lstm_pred": 0.7273
+    },
+    {
+      "datetime": "2010-11-25T12:00:00",
+      "actual": 0.4997,
+      "rf_pred": 0.5059,
+      "gb_pred": 0.4943,
+      "lstm_pred": 1.014
+    },
+    {
+      "datetime": "2010-11-25T13:00:00",
+      "actual": 0.3562,
+      "rf_pred": 0.3606,
+      "gb_pred": 0.362,
+      "lstm_pred": 0.5982
+    },
+    {
+      "datetime": "2010-11-25T14:00:00",
+      "actual": 0.3007,
+      "rf_pred": 0.2912,
+      "gb_pred": 0.3017,
+      "lstm_pred": 0.5567
+    },
+    {
+      "datetime": "2010-11-25T15:00:00",
+      "actual": 0.333,
+      "rf_pred": 0.3155,
+      "gb_pred": 0.3172,
+      "lstm_pred": 0.5169
+    },
+    {
+      "datetime": "2010-11-25T16:00:00",
+      "actual": 0.5418,
+      "rf_pred": 0.5154,
+      "gb_pred": 0.5327,
+      "lstm_pred": 0.6207
+    },
+    {
+      "datetime": "2010-11-25T17:00:00",
+      "actual": 1.4801,
+      "rf_pred": 1.4598,
+      "gb_pred": 1.4574,
+      "lstm_pred": 1.3461
+    },
+    {
+      "datetime": "2010-11-25T18:00:00",
+      "actual": 2.2116,
+      "rf_pred": 2.1831,
+      "gb_pred": 2.1988,
+      "lstm_pred": 2.1306
+    },
+    {
+      "datetime": "2010-11-25T19:00:00",
+      "actual": 2.3305,
+      "rf_pred": 2.3295,
+      "gb_pred": 2.3609,
+      "lstm_pred": 2.0893
+    },
+    {
+      "datetime": "2010-11-25T20:00:00",
+      "actual": 1.6478,
+      "rf_pred": 1.6306,
+      "gb_pred": 1.6248,
+      "lstm_pred": 1.9355
+    },
+    {
+      "datetime": "2010-11-25T21:00:00",
+      "actual": 1.3429,
+      "rf_pred": 1.312,
+      "gb_pred": 1.3123,
+      "lstm_pred": 1.1649
+    },
+    {
+      "datetime": "2010-11-25T22:00:00",
+      "actual": 1.2476,
+      "rf_pred": 1.2149,
+      "gb_pred": 1.2397,
+      "lstm_pred": 0.9033
+    },
+    {
+      "datetime": "2010-11-25T23:00:00",
+      "actual": 0.957,
+      "rf_pred": 0.944,
+      "gb_pred": 0.968,
+      "lstm_pred": 0.8203
+    },
+    {
+      "datetime": "2010-11-26T00:00:00",
+      "actual": 0.2943,
+      "rf_pred": 0.297,
+      "gb_pred": 0.2952,
+      "lstm_pred": 0.5865
+    },
+    {
+      "datetime": "2010-11-26T01:00:00",
+      "actual": 0.281,
+      "rf_pred": 0.2902,
+      "gb_pred": 0.2968,
+      "lstm_pred": 0.373
+    },
+    {
+      "datetime": "2010-11-26T02:00:00",
+      "actual": 0.2734,
+      "rf_pred": 0.2829,
+      "gb_pred": 0.2863,
+      "lstm_pred": 0.3616
+    },
+    {
+      "datetime": "2010-11-26T03:00:00",
+      "actual": 0.2984,
+      "rf_pred": 0.294,
+      "gb_pred": 0.2978,
+      "lstm_pred": 0.3829
+    },
+    {
+      "datetime": "2010-11-26T04:00:00",
+      "actual": 0.314,
+      "rf_pred": 0.3104,
+      "gb_pred": 0.3131,
+      "lstm_pred": 0.4399
+    },
+    {
+      "datetime": "2010-11-26T05:00:00",
+      "actual": 0.2826,
+      "rf_pred": 0.279,
+      "gb_pred": 0.2866,
+      "lstm_pred": 0.8687
+    },
+    {
+      "datetime": "2010-11-26T06:00:00",
+      "actual": 1.0088,
+      "rf_pred": 1.013,
+      "gb_pred": 0.996,
+      "lstm_pred": 1.2006
+    },
+    {
+      "datetime": "2010-11-26T07:00:00",
+      "actual": 2.8839,
+      "rf_pred": 2.8393,
+      "gb_pred": 2.8654,
+      "lstm_pred": 2.0463
+    },
+    {
+      "datetime": "2010-11-26T08:00:00",
+      "actual": 1.9993,
+      "rf_pred": 1.992,
+      "gb_pred": 2.0176,
+      "lstm_pred": 1.8861
+    },
+    {
+      "datetime": "2010-11-26T09:00:00",
+      "actual": 1.85,
+      "rf_pred": 1.8435,
+      "gb_pred": 1.8628,
+      "lstm_pred": 1.3991
+    },
+    {
+      "datetime": "2010-11-26T10:00:00",
+      "actual": 1.3528,
+      "rf_pred": 1.3452,
+      "gb_pred": 1.3537,
+      "lstm_pred": 1.3689
+    },
+    {
+      "datetime": "2010-11-26T11:00:00",
+      "actual": 1.3389,
+      "rf_pred": 1.3372,
+      "gb_pred": 1.3462,
+      "lstm_pred": 1.0043
+    },
+    {
+      "datetime": "2010-11-26T12:00:00",
+      "actual": 1.4902,
+      "rf_pred": 1.4843,
+      "gb_pred": 1.4801,
+      "lstm_pred": 1.0878
+    },
+    {
+      "datetime": "2010-11-26T13:00:00",
+      "actual": 1.6129,
+      "rf_pred": 1.616,
+      "gb_pred": 1.6333,
+      "lstm_pred": 1.3011
+    },
+    {
+      "datetime": "2010-11-26T14:00:00",
+      "actual": 1.4078,
+      "rf_pred": 1.4114,
+      "gb_pred": 1.4129,
+      "lstm_pred": 1.4948
+    },
+    {
+      "datetime": "2010-11-26T15:00:00",
+      "actual": 0.8764,
+      "rf_pred": 0.8569,
+      "gb_pred": 0.8751,
+      "lstm_pred": 1.0693
+    },
+    {
+      "datetime": "2010-11-26T16:00:00",
+      "actual": 1.0679,
+      "rf_pred": 1.0586,
+      "gb_pred": 1.0608,
+      "lstm_pred": 0.9731
+    },
+    {
+      "datetime": "2010-11-26T17:00:00",
+      "actual": 1.7259,
+      "rf_pred": 1.6931,
+      "gb_pred": 1.7124,
+      "lstm_pred": 1.6323
+    },
+    {
+      "datetime": "2010-11-26T18:00:00",
+      "actual": 1.5735,
+      "rf_pred": 1.5503,
+      "gb_pred": 1.5416,
+      "lstm_pred": 2.2246
+    },
+    {
+      "datetime": "2010-11-26T19:00:00",
+      "actual": 1.6593,
+      "rf_pred": 1.6712,
+      "gb_pred": 1.6599,
+      "lstm_pred": 2.0961
+    },
+    {
+      "datetime": "2010-11-26T20:00:00",
+      "actual": 1.1637,
+      "rf_pred": 1.1392,
+      "gb_pred": 1.1499,
+      "lstm_pred": 1.9674
+    },
+    {
+      "datetime": "2010-11-26T21:00:00",
+      "actual": 0.9347,
+      "rf_pred": 0.8923,
+      "gb_pred": 0.9025,
+      "lstm_pred": 1.2942
+    }
+  ],
+  "metrics": [
+    {
+      "model": "RandomForest",
+      "MAE": 0.016618,
+      "RMSE": 0.024882,
+      "R2": 0.998771
+    },
+    {
+      "model": "GradientBoosting",
+      "MAE": 0.015776,
+      "RMSE": 0.023924,
+      "R2": 0.998864
+    },
+    {
+      "model": "LSTM",
+      "MAE": 0.346233,
+      "RMSE": 0.489603,
+      "R2": 0.524311
+    }
+  ]
+}
